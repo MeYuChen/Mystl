@@ -1,0 +1,6 @@
+Package: mystl
+Version: 1.0.1
+Maintainer: Yu Chen <i_yuchen [at] outlook.com>
+Description: stl learning
+Architecture: amd64
+Depends: none
